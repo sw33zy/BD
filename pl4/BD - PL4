@@ -1,0 +1,23 @@
+BD - PL4
+
+Utilizadores do sistema:
+Unidade do banco alimentar
+
+Dados:
+
+1. A informação de cada representante de um agregado familiar – número de identificação fiscal,
+nome, endereço (rua, localidade e código postal), estado atual (empregado ou não), fundamentação
+do pedido de ajuda, constituição do agregado familiar (nome, género e idade de cada elemento), 
+etc. – de todos aqueles que têm recebido ajuda da unidade;
+
+2. Os cabazes que foram entregues a cada agregado familiar;
+
+3. A constituição de cada um dos tipos de cabazes que foi entregue. 
+
+Requisitos:
+
+1. O sistema deverá ser capaz de determinar o número de cabazes entregues, por agregado familiar,
+por funcionário da unidade, por tipo de cabaz, e por dia, mês e ano da entrega;
+
+2. O sistema deverá ser capaz de determinar os 25 bens alimentares mais distribuídos, tendo em 
+conta os cabazes entregues a cada agregado familiar. 

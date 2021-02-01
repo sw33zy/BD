@@ -1,0 +1,10 @@
+Requisitos:
+
+1. Registar informação relativa a jogadores, nomeadamente nome, data de nascimento, altura, peso e observações.
+2. Para cada jogador deverá também ser possível registar o seu país e cidade de nascimento.
+3. O sistema deverá permitir registar informação relativa a equipas às quais os jogadores pertencem, registando para tal: designação, treinador, ano de fundação, estádio, presidente, url e possíveis observações.
+4. Para cada equipa será também necessário manter informação relativa a origem (localidade) e país.
+5. Manter um registo atualizado dos cromos adquiridos, mantendo de igual forma informação sobre a página da caderneta a qual ele pertence bem como se este se refere a um jogador ou um emblema, estádio, etc.
+6. O sistema deverá permitir listar a cada momento os cromos já adquiridos bem como os que ainda estão em falta.
+7. Listar todos os jogadores de um determinado país.
+8. Listar quais as posições de jogadores e uma determinada equipa que pertencem a um determinado país.

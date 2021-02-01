@@ -1,0 +1,18 @@
+BD- PL3
+
+Utilizdores do Sistema:
+Delegado de saúde
+
+Requisitos:
+1. O sistema deverá ser capaz de registar pessoas, pelo nome, CC e morada para registo de potenciais contágios.
+
+2. O sistema deverá permitir registar as situações de potencial contágio, pela data de ocorrência, descrição de situação e local de registo.
+
+3. O sistema deverá permitir o registo dos contactos, pelo tipo de proximidade, nomeadamente se é familiar ou não, da pessoa que teve presente na situação de potencial contágio.
+
+4. O sistema deverá permitir gerar relatórios do número de pessoas envolvidas em situações de potencial contágio ao longo do tempo.
+
+5. Os números de contágio poderão ser descriminados por freguesia, destrito e concelho.	
+
+https://cdn.discordapp.com/attachments/718092487700512828/771671038647074856/c2c62cd3bfb37853bffacb0ba92ace73.png
+Relação N para N nas pessoas
